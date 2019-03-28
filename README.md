@@ -8,6 +8,6 @@
 3. Jalankan aplikasi dengan command `react-native run-ios simulator="iPhone 5s"`.
 
 ### Screenshoot Proyek
-![SS 1](https://github.com/caturandi-labs/nodejsauth-passport/blob/master/screenshoots/ss1.PNG "Home")
+![SS 1](https://github.com/caturandi-labs/todolist-reactnative-redux/blob/master/ss/ss1.png "Home")
 
-![SS 2](https://github.com/caturandi-labs/nodejsauth-passport/blob/master/screenshoots/ss2.PNG "Tambah Data")
+![SS 2](https://github.com/caturandi-labs/todolist-reactnative-redux/blob/master/ss/ss2.png "Tambah Data")
